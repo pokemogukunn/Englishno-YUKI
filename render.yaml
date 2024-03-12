@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tanjoubimadeatosukosidayo
+    name: webdedekirueitangoleberunosinnsamati
     env: python
     region: Oregon
     plan: free
